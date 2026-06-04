@@ -1,6 +1,1 @@
 flask
-tensorflow
-opencv-python-headless
-numpy
-imutils
-pillow
